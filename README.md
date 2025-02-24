@@ -6,7 +6,7 @@
 🐶 **Currently foucsed on making our companion animals age healthier using Bioinformatics**  
 
 ### 🚀 **Skills & Tools**
-- 🧬 Multi-omics: Transcriptomics(scRNAseq, bulk RNAseq, AS, eQTL, sQTL), Methylation(WGBS, mQTL), DNAseq(Low-Pass Sequencing, genotyping arrays), Systems(Bayesian colocalization, GWAS) 
+- 🧬 Multi-omics: Transcriptomics (scRNAseq, bulk RNAseq, AS, eQTL, sQTL), Methylation (WGBS, mQTL), DNAseq (Low-Pass Sequencing, genotyping arrays), Systems (Bayesian colocalization, GWAS) 
 - 🛠️ Programming: `R`, `Python`, `bash`
 - 🧠 Machine Learning: `scikit-learn`, `PyTorch`, `XGBoost`, `hugging-face`
 
