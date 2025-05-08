@@ -2,7 +2,7 @@
 
 # 👋 I'm Arby!  
 
-🔬 **Bioinformatics Scientist | Multi-Omics Expert | Machine Learning Analyst**  
+🔬 **Bioinformatics Scientist | Multi-Omics Expert | Machine Learning & Clinical Data Analyst**  
 🐶 **Currently foucsed on making our companion animals age healthier using Bioinformatics**  
 
 ### 🚀 **Skills & Tools**
