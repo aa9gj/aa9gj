@@ -7,7 +7,7 @@
 
 ### 🚀 **Skills & Tools**
 - 🧬 Multi-omics: Transcriptomics (scRNAseq, bulk RNAseq, AS, eQTL, sQTL), Methylation (WGBS, mQTL), DNAseq (Low-Pass Sequencing, genotyping arrays), Systems (Bayesian colocalization, GWAS) 
-- 🛠️ Programming: `R`, `Python`, `bash`
+- 🛠️ Programming: `R`, `Python`, `bash`, `SQL`
 - 🧠 Machine Learning: `scikit-learn`, `PyTorch`, `XGBoost`, `hugging-face`
 
 ### 📬 **Let's Connect**
