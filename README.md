@@ -12,4 +12,4 @@
 
 ### 📬 **Let's Connect**
 💼 [LinkedIn](https://www.linkedin.com/in/arby-abood-7964238b/)  
-📧 Email: arby_abood@hillspet.com
+📧 Email: arbyaboodphd@gmail.com
