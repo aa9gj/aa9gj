@@ -3,9 +3,8 @@
 # 👋 I'm Arby!  
 
 🔬 **Bioinformatics Scientist | Multi-Omics Expert | Machine Learning & Clinical Data Analyst**  
-🐶 **Currently foucsed on making our companion animals age healthier using Bioinformatics**  
 
-### 🚀 **Skills & Tools**
+### **Skills & Tools**
 - 🧬 Multi-omics: Transcriptomics (scRNAseq, bulk RNAseq, AS, eQTL, sQTL), Methylation (WGBS, mQTL), DNAseq (Low-Pass Sequencing, genotyping arrays), Systems (Bayesian colocalization, GWAS) 
 - 🛠️ Programming: `R`, `Python`, `bash`, `SQL`
 - 🧠 Machine Learning: `scikit-learn`, `PyTorch`, `XGBoost`, `hugging-face`
@@ -14,3 +13,4 @@
 ### 📬 **Let's Connect**
 💼 [LinkedIn](https://www.linkedin.com/in/arby-abood-7964238b/)  
 📧 Email: arbyaboodphd@gmail.com
+🚀 [Website](https://www.arby-abood.com/)  
