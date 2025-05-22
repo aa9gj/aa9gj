@@ -13,5 +13,5 @@
 ### 📬 **Let's Connect**
 💼 [LinkedIn](https://www.linkedin.com/in/arby-abood-7964238b/)  
 🚀 [Website](https://www.arby-abood.com/)  
-📧 Email: arbyaboodphd@gmail.com
+📧 Email: arby.a.abood@gmail.com
 
