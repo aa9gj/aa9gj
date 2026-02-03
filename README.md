@@ -2,7 +2,7 @@
 
 # 👋 I'm Arby!  
 
-🔬 **Bioinformatics Scientist | Multi-Omics Expert | Machine Learning & Clinical Data Analyst**  
+🔬 **Computational Biologist | Multi-Omics Expert | Machine Learning & Clinical Data Analyst**  
 
 ### **Skills & Tools**
 - 🧬 Multi-omics: Transcriptomics (scRNAseq, bulk RNAseq, AS, eQTL, sQTL), Methylation (WGBS, mQTL), DNAseq (Low-Pass Sequencing, genotyping arrays), Systems (Bayesian colocalization, GWAS) 
